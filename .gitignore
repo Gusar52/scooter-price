@@ -1,0 +1,48 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+*.egg-info/
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python testing / coverage
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data and outputs (uncomment if you want to ignore dataset files)
+# data/
+# data/*.csv
+# data/*.parquet
+
+# Notebook outputs / generated files
+submission.csv
