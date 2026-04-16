@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "scooter-price"
 version = "0.1.0"
-description = "ML project for scooter rental price prediction"
-authors = ["Your Name <your@email.com>"]
+description = "ML project for scooter prediction"
+authors = ["maripolevay@gmail.com"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.12"
