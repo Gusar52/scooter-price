@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "scooter-price"
+version = "0.1.0"
+description = "ML project for scooter rental price prediction"
+authors = ["Your Name <your@email.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.12"
+pandas = "^1.5.3"
+numpy = "^1.23.5"
+scikit-learn = "^1.2.2"
+catboost = "^1.2.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
